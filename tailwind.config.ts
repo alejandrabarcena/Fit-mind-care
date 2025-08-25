@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				medical: {
+					bmi: 'hsl(var(--medical-bmi))',
+					rbc: 'hsl(var(--medical-rbc))',
+					weight: 'hsl(var(--medical-weight))',
+					height: 'hsl(var(--medical-height))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
